@@ -1,0 +1,67 @@
+hello world 
+
+#include <stdio.h>
+int main (){
+    printf("hello world");
+    return 0;
+}
+===============================
+five friends name
+
+#include <stdio.h>
+int main (){
+    printf("Sneha");
+     printf("Simran");
+      printf("prateek");
+       printf("Ravi");
+        printf("Aman");
+    return 0;
+}
+================================
+five fav fruti name 
+
+#include <stdio.h>
+int main (){
+    printf("Apple");
+     printf("Grape");
+      printf("Banana");
+       printf("Mango");
+        printf("Pineapple");
+    return 0;
+}
+===================================
+five fav food name
+
+#include <stdio.h>
+int main (){
+    printf("bajra");
+     printf("paneer");
+      printf("sarso ka saag");
+       printf("dal bati");
+        printf("rice");
+    return 0;
+}
+=====================================
+five fav country name 
+
+#include <stdio.h>
+int main (){
+    printf("itlay");
+     printf("france");
+      printf("dubai");
+       printf("USA");
+        printf("russia");
+    return 0;
+}
+======================================
+five fav city name 
+
+#include <stdio.h>
+int main (){
+    printf("Delhi");
+     printf("Gujarat");
+      printf("Chennai");
+       printf("Surat");
+        printf("Mumbai");
+    return 0;
+}
